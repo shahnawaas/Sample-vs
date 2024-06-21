@@ -1,0 +1,12 @@
+.head{
+    color:beige;
+}
+
+.para{
+    color: blue;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    font-weight: 900;
+    text-decoration: underline;
+    text-align: right;
+}
